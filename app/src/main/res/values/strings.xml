@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CA1 Pratical2</string>
+    <string name="games">Games Room</string>
+    <string name="id">Student ID</string>
+    <string name="normal">Normal</string>
+    <string name="pirority">PRIORITY</string>
+    <string name="weekday">Weekday</string>
+    <string name="Weekend">Weekend</string>
+    <string name="priority">PRIORITY</string>
+    <string name="book">Place Booking</string>
+</resources>
